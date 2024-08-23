@@ -1,5 +1,5 @@
 # INCREMENTUM
 Stimulating growth one task at a time. 
 
-##Programmed with:
+## Programmed with:
 React, JavaScript, HTML/CSS
